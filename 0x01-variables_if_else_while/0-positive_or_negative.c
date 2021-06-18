@@ -3,6 +3,13 @@
 #include <stdio.h>
 /* more headers goes there */
 
+/**
+ * main - main block
+ * Description: Get a random number and print the number
+ * and if it is positive, negative, or zero
+ * Return: 0
+ */
+
 /* betty style doc for function main goes there */
 int main(void)
 {
@@ -18,6 +25,6 @@ int main(void)
 	  (n < 0)
 	printf("%i is negative\n", n);
 	else
-	  printf("%i is zero\n", n);	
+	printf("%i is zero\n", n);	
 	return (0);
 }
