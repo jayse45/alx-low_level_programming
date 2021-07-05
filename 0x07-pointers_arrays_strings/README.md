@@ -1,0 +1,1 @@
+Directory for more arrays, pointers and strings
